@@ -16,7 +16,7 @@
     },
     "require": {
         "php": "^8.2",
-        "contao/core-bundle": "^4.13"
+        "contao/core-bundle": "4.13.*"
     },
     "replace": {
         "contao-legacy/contentblocks": "*",
